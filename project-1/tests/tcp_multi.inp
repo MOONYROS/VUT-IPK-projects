@@ -1,0 +1,7 @@
+HELLO
+SOLVE (+ 1 2)
+SOLVE (- 2 1)
+SOLVE (* 2 3)
+SOLVE (/ 1 2)
+SOLVE (+ 456)
+BYE
